@@ -20,6 +20,10 @@ body {
   list-style-image: url(/img/punkt.png);
 }
 
+.logo {
+	cursor: pointer;
+}
+
 .osoby {
   text-align: right;
   color: #777;
