@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url(/img/tlo.png) #aaa;
+  background: url(../img/tlo.png) #aaa;
   width: 844px;
   margin: 0 auto;
   font-family: "Museo-300", Helvetica, sans-serif;
@@ -17,7 +17,7 @@ body {
 }
 
 .text ul {
-  list-style-image: url(/img/punkt.png);
+  list-style-image: url(../img/punkt.png);
 }
 
 .logo {
@@ -89,7 +89,7 @@ h2 {
 }
 
 .footer {
-  background: url(/img/pastlo.png) #0d72b9;
+  background: url(../img/pastlo.png) #0d72b9;
   border-radius: 0 0 5px 5px;
   text-align: right;
   margin: 0 10px;
@@ -106,7 +106,7 @@ h2 {
 }
 
 .nav {
-  background: url(/img/pastlo.png) no-repeat center top;
+  background: url(../img/pastlo.png) no-repeat center top;
   height: 26px;
   width: 824px;
   margin: 0 auto;
